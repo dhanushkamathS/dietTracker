@@ -19,23 +19,23 @@ helps to visualize your consumption over time
 
 # PARAMETERS <br />
 
-diet-app ls  - provides a list of food consumed on the current day
-diet-app dls - provides a detailed list of food consumed on the current day
-diet-app cal - provides a calorie informaton of food consumed on the current day
-diet-app graph - provides the graph to visualise the data 
-diet-app help  - help
-
-diet-app setcal <amount>  - to set the calorie limit
-diet-app rm  <foodName>   - food to be removed from that day
-diet-app rmdb  <foodName> - food to be removed from the data base
-
-
-diet-app add <foodName> <amount> - food to be added to the days list
+diet-app ls  - provides a list of food consumed on the current day <br />
+diet-app dls - provides a detailed list of food consumed on the current day <br />
+diet-app cal - provides a calorie informaton of food consumed on the current day <br />
+diet-app graph - provides the graph to visualise the data <br />
+diet-app help  - help <br />
+<br />
+diet-app setcal <amount>  - to set the calorie limit <br />
+diet-app rm  <foodName>   - food to be removed from that day <br />
+diet-app rmdb  <foodName> - food to be removed from the data base <br />
+<br />
+<br />
+diet-app add <foodName> <amount> - food to be added to the days list<br /><br />
   
-diet-app addtodb <foodName> <carb> <protein> <fat> - food to be added to the data base where carb,protein,fat are given per 100g of that specific food
-  
+diet-app addtodb <foodName> <carb> <protein> <fat> - food to be added to the data base where carb,protein,fat are given per 100g of that specific food<br /><br />
+ <pre>
 diet-app updateindb <foodName> <newFoodName> <carb> <protein> <fat> - food to be updated in the data base where carb,protein,fat are given per 100g of that
-                                                                      specific food . Provide -1 if you don't wanna update that value
+                                                                      specific food . Provide -1 if you don't wanna update that value </pre>
 
 
 # Example: <br />
