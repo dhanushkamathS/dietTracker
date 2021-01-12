@@ -4,20 +4,20 @@
 Allows you to build your custom database of food
 helps to visualize your consumption over time 
 
-#diet-app            System Manager's Manual            
+# diet-app            System Manager's Manual      <br />      
 
-NAME
+# NAME <br />
        diet-app  -  python script designed to  log , analyse and maintain 
        				the consumption of food with a full database controle 
        				to add , remove and update
        
-DESCRIPTION
+# DESCRIPTION <br />
        sh script designed to  log , analyse and maintain 
        the consumption of food with a full database controle 
        to add , remove and update, visualise the progress with 
        graph
 
-PARAMETERS
+# PARAMETERS <br />
 
 diet-app ls  - provides a list of food consumed on the current day
 diet-app dls - provides a detailed list of food consumed on the current day
@@ -38,7 +38,7 @@ diet-app updateindb <foodName> <newFoodName> <carb> <protein> <fat> - food to be
                                                                       specific food . Provide -1 if you don't wanna update that value
 
 
-example:
+# Example: <br />
 diet-app updateindb brownrice -1 50 30 200 - this updates carb , protein and but not the name
 
 
