@@ -39,6 +39,7 @@ diet-app updateindb <foodName> <newFoodName> <carb> <protein> <fat> - food to be
 
 
 <br />
+
 # Example: <br />
 diet-app updateindb brownrice -1 50 30 200 - this updates carb , protein and but not the name
 
