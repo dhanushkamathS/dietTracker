@@ -1,5 +1,7 @@
 # dietTracker
 # Helps to track the diet
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 
 Allows you to build your custom database of food
 helps to visualize your consumption over time 
